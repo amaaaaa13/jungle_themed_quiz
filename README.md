@@ -1,16 +1,15 @@
-# jungle_themed_quiz
+# 🌿 Jungle-Themed Quiz 🦁  
 
-A new Flutter project.
+A fun and interactive jungle-themed quiz game designed to test your knowledge while enjoying an engaging user experience.  
 
-## Getting Started
+## 🎯 Features  
+- ⏳ **Timer** – Players must answer within a set time limit.  
+- 🔀 **Shuffled Questions & Items** – Each game session is unique with randomized questions and choices.  
+- 🎨 **User-Friendly UI** – Visually appealing jungle-themed design.  
+- 🌟 **Smooth Animations & Transitions** – Enhances the overall gameplay experience.  
+- 🏆 **Scoring System** – Earn points based on correct answers.  
 
-This project is a starting point for a Flutter application.
+## 📹 Demo  
+![Jungle-Themed Quiz Demo](https://github.com/user-attachments/assets/39762283-871c-4d5b-af4c-ca99d90482e3)  
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Test your knowledge, challenge yourself, and enjoy the jungle adventure! 🌿🦁🚀  
